@@ -1,5 +1,9 @@
 # Bio Under Construction 🚧
 
+<a href="https://www.last.fm/user/qouyang">
+  <img src="https://spotify-readme-jet.vercel.app/api" alt="Current Spotify Song">
+</a>
+
 <!--
 **quinnouyang/quinnouyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
