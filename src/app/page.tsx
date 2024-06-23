@@ -23,7 +23,7 @@ export default function Home() {
       </Link>{" "}
       and{" "}
       <Link
-        href="https://www.linkedin.com/in/quinn-ouyang/"
+        href="https://www.linkedin.com/in/quinnouyang/"
         target="_blank"
         rel="noopener noreferrer"
       >
