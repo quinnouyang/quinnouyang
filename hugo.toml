@@ -1,0 +1,4 @@
+baseURL = 'https://quinnouyang.com/'
+languageCode = 'en-us'
+title = 'Quinn Ouyang'
+theme = 'hello-friend-ng'
