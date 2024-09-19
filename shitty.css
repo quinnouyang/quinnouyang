@@ -1,0 +1,13 @@
+body {
+	background-color: #8ace00;
+	font-family: "Arial Narrow", Arial, sans-serif;
+	font-stretch: condensed;
+
+	margin: 0;
+}
+
+#pika {
+	width: 100%;
+	max-width: 420px;
+	border: 0;
+}
